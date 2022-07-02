@@ -154,7 +154,7 @@ LTCM 可以是一个安全的贷款机构、也可以是一个有风险的贷款
 
 例如，BlockFi 曾经是美国上市的比特币追踪基金 GBTC 的最大持有人之一。BlockFi 接受 BTC 存款，创建 GBTC 股份，然后在市场上出售 GBTC 股份以获取溢价。这就是计划，无论如何，但它花了六个月时间来创建 GBTC 股份。在这六个月期间（ 2021 年底至 2022 年初），GBTC 的溢价变成了折价，当他们退出套利时，他们已经亏损。
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/aCITy8uI9icmNhLxLOgic4Nib7Zwr7QkTjP4N2LUq0Wibt6VTVGPe09eicn1V9Ssv8pd2BS0gO6CeSzLNZTVP841VjA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)        
+![图片](https://s2.loli.net/2022/07/02/4azPT7pRmeNLjIS.png)        
 
 以上是 GBTC 对其资产净值（NAV）的溢价或折价图。鉴于六个月的准备时间和人类对短期趋势的无限推断，我打赌许多公司借用 BTC 来创建 GBTC，希望他们能在六个月后获得 40% 的利润。正如你所看到的，这显然没有发生，因为 GBTC 自 2021 年第二季度以来一直在折价交易。
 
