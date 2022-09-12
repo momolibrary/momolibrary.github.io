@@ -1,4 +1,4 @@
-# Finite and Infinite Games
+# Finite and Infinite Games-en
 
 
 ![images](https://cdn.plmxs.top/images/000003.jpg)
