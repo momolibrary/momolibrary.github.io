@@ -1,7 +1,11 @@
 {
 	"version": 3,
 	"file": "style.min.css",
+<<<<<<< HEAD
 	"sourceRoot": "/Users/tangqiang/customer",
+=======
+	"sourceRoot": "/home/runner/work/momolibrary/momolibrary",
+>>>>>>> b8b4289cb70bce693dbb8c2a5972ca86b278219c
 	"sources": [
 		"themes/LoveIt/assets/css/style.scss",
 		"themes/LoveIt/assets/css/_variables.scss",

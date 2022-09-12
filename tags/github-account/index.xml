@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Github account - 标签 - momolibrary</title>
@@ -14,3 +15,8 @@
             </div>自建图书馆第1步：拥有Github帐号]]></description>
 </item></channel>
 </rss>
+=======
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Github account - 标签 - Momolibrary</title><link>https://momolibrary.github.io/tags/github-account/</link><description>Github account - 标签 - Momolibrary</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 13 Mar 2022 16:14:50 +0800</lastBuildDate><atom:link href="https://momolibrary.github.io/tags/github-account/" rel="self" type="application/rss+xml"/><item><title>如何注册Github帐号</title><link>https://momolibrary.github.io/create_github_account/</link><pubDate>Sun, 13 Mar 2022 16:14:50 +0800</pubDate><author>作者</author><guid>https://momolibrary.github.io/create_github_account/</guid><description>&lt;div class="featured-image">
+&lt;img src="https://doraemonj.github.io/pics/guide_001_create_github_account.png" referrerpolicy="no-referrer">
+&lt;/div>自建图书馆第1步：拥有Github帐号</description></item></channel></rss>
+>>>>>>> b8b4289cb70bce693dbb8c2a5972ca86b278219c
