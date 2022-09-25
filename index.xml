@@ -1,97 +1,85 @@
-<<<<<<< HEAD
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>momolibrary</title>
-        <link>/</link>
+        <link>https://momolibrary.github.io/</link>
         <description>momolibrary</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 10 Sep 2022 13:04:41 &#43;0800</lastBuildDate>
-            <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 25 Sep 2022 23:04:42 &#43;0800</lastBuildDate>
+            <atom:link href="https://momolibrary.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>解开你的大脑</title>
+    <link>https://momolibrary.github.io/e13_unfuck_your_brain/</link>
+    <pubDate>Sun, 25 Sep 2022 23:04:42 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://momolibrary.github.io/e13_unfuck_your_brain/</guid>
+    <description><![CDATA[用科学来克服焦虑、抑郁、愤怒、发狂和触发因素]]></description>
+</item><item>
     <title>有限游戏和无限游戏</title>
-    <link>/e03_finite_and_infinite_games/</link>
+    <link>https://momolibrary.github.io/e03_finite_and_infinite_games/</link>
     <pubDate>Sat, 10 Sep 2022 13:04:41 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>/e03_finite_and_infinite_games/</guid>
+    <guid>https://momolibrary.github.io/e03_finite_and_infinite_games/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/https:/libmind.github.io/img/e03_finite_and_infinite_games/zh.png" referrerpolicy="no-referrer">
+                <img src="https://libmind.github.io/img/e03_finite_and_infinite_games/zh.png" referrerpolicy="no-referrer">
             </div>将生命视为一种游戏和愿景]]></description>
 </item><item>
     <title>考え直せ</title>
-    <link>/think_again.ja/</link>
+    <link>https://momolibrary.github.io/think_again.ja/</link>
     <pubDate>Sun, 04 Sep 2022 15:44:33 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>/think_again.ja/</guid>
+    <guid>https://momolibrary.github.io/think_again.ja/</guid>
     <description><![CDATA[知らないことを知る力]]></description>
 </item><item>
     <title>重新思考</title>
-    <link>/think_again/</link>
+    <link>https://momolibrary.github.io/think_again/</link>
     <pubDate>Sat, 03 Sep 2022 18:43:49 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>/think_again/</guid>
+    <guid>https://momolibrary.github.io/think_again/</guid>
     <description><![CDATA[了解你所未知事物的力量]]></description>
 </item><item>
     <title>历史的终结和最后的人</title>
-    <link>/the_end_of_history_and_the_last_man/</link>
+    <link>https://momolibrary.github.io/the_end_of_history_and_the_last_man/</link>
     <pubDate>Wed, 06 Jul 2022 22:49:36 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>/the_end_of_history_and_the_last_man/</guid>
+    <guid>https://momolibrary.github.io/the_end_of_history_and_the_last_man/</guid>
     <description><![CDATA[The End of History and the Last Man]]></description>
 </item><item>
     <title>人类理解论</title>
-    <link>/an_essay_concerning_human_understanding/</link>
+    <link>https://momolibrary.github.io/an_essay_concerning_human_understanding/</link>
     <pubDate>Wed, 06 Jul 2022 22:13:56 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>/an_essay_concerning_human_understanding/</guid>
+    <guid>https://momolibrary.github.io/an_essay_concerning_human_understanding/</guid>
     <description><![CDATA[An essay concerning human understanding]]></description>
 </item><item>
     <title>社会的发现</title>
-    <link>/the_discovery_of_society/</link>
+    <link>https://momolibrary.github.io/the_discovery_of_society/</link>
     <pubDate>Wed, 06 Jul 2022 18:03:18 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>/the_discovery_of_society/</guid>
+    <guid>https://momolibrary.github.io/the_discovery_of_society/</guid>
     <description><![CDATA[The Discovery of society]]></description>
 </item><item>
     <title>清算：华尔街的民族志</title>
-    <link>/liquidated/</link>
+    <link>https://momolibrary.github.io/liquidated/</link>
     <pubDate>Sun, 05 Jun 2022 23:40:34 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>/liquidated/</guid>
+    <guid>https://momolibrary.github.io/liquidated/</guid>
     <description><![CDATA[Liquidated: AN ETHNOGRAPHY OF WALL STREET]]></description>
 </item><item>
     <title>如何接收Pull Request</title>
-    <link>/merge_pull_request/</link>
+    <link>https://momolibrary.github.io/merge_pull_request/</link>
     <pubDate>Tue, 15 Mar 2022 13:30:50 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>/merge_pull_request/</guid>
+    <guid>https://momolibrary.github.io/merge_pull_request/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/https:/doraemonj.github.io/pics/guide_003_pull_request.png" referrerpolicy="no-referrer">
+                <img src="https://doraemonj.github.io/pics/guide_003_pull_request.png" referrerpolicy="no-referrer">
             </div>自建图书馆第2步：注册Github Pages]]></description>
 </item><item>
     <title>如何注册Github Pages</title>
-    <link>/create_github_pages/</link>
+    <link>https://momolibrary.github.io/create_github_pages/</link>
     <pubDate>Mon, 14 Mar 2022 16:04:50 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>/create_github_pages/</guid>
+    <guid>https://momolibrary.github.io/create_github_pages/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/https:/doraemonj.github.io/pics/guide_002_create_github_pages.png" referrerpolicy="no-referrer">
+                <img src="https://doraemonj.github.io/pics/guide_002_create_github_pages.png" referrerpolicy="no-referrer">
             </div>自建图书馆第2步：注册Github Pages]]></description>
-</item><item>
-    <title>如何注册Github帐号</title>
-    <link>/create_github_account/</link>
-    <pubDate>Sun, 13 Mar 2022 16:14:50 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>/create_github_account/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/https:/doraemonj.github.io/pics/guide_001_create_github_account.png" referrerpolicy="no-referrer">
-            </div>自建图书馆第1步：拥有Github帐号]]></description>
 </item></channel>
 </rss>
-=======
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Momolibrary</title><link>https://momolibrary.github.io/</link><description>Momolibrary</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 28 Jul 2022 01:32:00 +0800</lastBuildDate><atom:link href="https://momolibrary.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>比特币标准</title><link>https://momolibrary.github.io/the_bitcoin_standard/</link><pubDate>Thu, 28 Jul 2022 01:32:00 +0800</pubDate><author>作者</author><guid>https://momolibrary.github.io/the_bitcoin_standard/</guid><description>The Bitcoin Standard</description></item><item><title>Arthur Hayes 博文：我所认识的三箭资本</title><link>https://momolibrary.github.io/3ac_in_my_opinion/</link><pubDate>Sat, 02 Jul 2022 05:41:15 +0800</pubDate><author>作者</author><guid>https://momolibrary.github.io/3ac_in_my_opinion/</guid><description>当前这轮熊市是我经历的第三轮熊市了，虽然有时候感觉是在重播，但是每一次都能有所收获。每个人的收获都有所不同，但如果你倾向于聆听主流金融媒体，那么我可以肯定的告诉你，你被灌输了错误的观点。主流媒体服务于传统金融，他们会用尽一切机会来嘲笑加密货币这场经济/社会实验，趾高气昂地宣称，加密货币毫无价值。当然，作为加密货币行业的坚定信仰者，我将试图纠正来自他们的那些恶意抨击。</description></item><item><title>清算：华尔街的民族志</title><link>https://momolibrary.github.io/liquidated/</link><pubDate>Sun, 05 Jun 2022 23:40:34 +0800</pubDate><author>作者</author><guid>https://momolibrary.github.io/liquidated/</guid><description>Liquidated: AN ETHNOGRAPHY OF WALL STREET</description></item><item><title>如何接收Pull Request</title><link>https://momolibrary.github.io/merge_pull_request/</link><pubDate>Tue, 15 Mar 2022 13:30:50 +0800</pubDate><author>作者</author><guid>https://momolibrary.github.io/merge_pull_request/</guid><description>&lt;div class="featured-image">
-&lt;img src="https://doraemonj.github.io/pics/guide_003_pull_request.png" referrerpolicy="no-referrer">
-&lt;/div>自建图书馆第2步：注册Github Pages</description></item><item><title>如何注册Github Pages</title><link>https://momolibrary.github.io/create_github_pages/</link><pubDate>Mon, 14 Mar 2022 16:04:50 +0800</pubDate><author>作者</author><guid>https://momolibrary.github.io/create_github_pages/</guid><description>&lt;div class="featured-image">
-&lt;img src="https://doraemonj.github.io/pics/guide_002_create_github_pages.png" referrerpolicy="no-referrer">
-&lt;/div>自建图书馆第2步：注册Github Pages</description></item><item><title>如何注册Github帐号</title><link>https://momolibrary.github.io/create_github_account/</link><pubDate>Sun, 13 Mar 2022 16:14:50 +0800</pubDate><author>作者</author><guid>https://momolibrary.github.io/create_github_account/</guid><description>&lt;div class="featured-image">
-&lt;img src="https://doraemonj.github.io/pics/guide_001_create_github_account.png" referrerpolicy="no-referrer">
-&lt;/div>自建图书馆第1步：拥有Github帐号</description></item><item><title>房地产的繁荣与萧条</title><link>https://momolibrary.github.io/the_housing_boom_and_bust/</link><pubDate>Sun, 06 Mar 2022 13:00:48 +0800</pubDate><author>作者</author><guid>https://momolibrary.github.io/the_housing_boom_and_bust/</guid><description>The Housing Boom and Bust</description></item><item><title>理解媒体</title><link>https://momolibrary.github.io/understanding_media/</link><pubDate>Sun, 06 Mar 2022 13:00:48 +0800</pubDate><author>作者</author><guid>https://momolibrary.github.io/understanding_media/</guid><description>Understanding Media: The Extension</description></item><item><title>让所学和你相关</title><link>https://momolibrary.github.io/make_it_stick/</link><pubDate>Fri, 18 Feb 2022 11:46:29 +0800</pubDate><author>作者</author><guid>https://momolibrary.github.io/make_it_stick/</guid><description>Make it Stick: The Science of Successful Learning</description></item><item><title>提问的智慧</title><link>https://momolibrary.github.io/how_to_ask_questions/</link><pubDate>Tue, 15 Feb 2022 13:38:16 +0800</pubDate><author>作者</author><guid>https://momolibrary.github.io/how_to_ask_questions/</guid><description>How to Ask Questions: The Smart Way</description></item></channel></rss>
->>>>>>> b8b4289cb70bce693dbb8c2a5972ca86b278219c
