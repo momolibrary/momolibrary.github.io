@@ -1,14 +1,7 @@
-<<<<<<< HEAD
 # Finite and Infinite Games-en
 
 
 ![images](https://cdn.plmxs.top/images/000003.jpg)
-=======
-# Finite and Infinite Games
-
-
-![images](https://libmind.github.io/img/e03_finite_and_infinite_games/images/000003.jpg)
->>>>>>> 6df4eed (updated by Macbook)
 
 ### 1
 
@@ -398,11 +391,7 @@ Infinite players understand the inescapable likelihood of evil. They therefore d
 
 Evil is not the inclusion of finite games in an infinite game, but the restriction of all play to one or another finite game.
 
-<<<<<<< HEAD
 ![images](https://cdn.plmxs.top/images/000001.jpg)
-=======
-![images](https://libmind.github.io/img/e03_finite_and_infinite_games/images/000001.jpg)
->>>>>>> 6df4eed (updated by Macbook)
 
 ### 32
 
@@ -686,11 +675,7 @@ Metaphysics is *about* the real but is abstract. Poetry is the *making* (poiesis
 
 Poets cannot kill; they die. Metaphysics cannot die; it kills.
 
-<<<<<<< HEAD
 ![images](https://cdn.plmxs.top/images/000006.jpg)
-=======
-![images](https://libmind.github.io/img/e03_finite_and_infinite_games/images/000006.jpg)
->>>>>>> 6df4eed (updated by Macbook)
 
 ### 51
 
@@ -864,11 +849,7 @@ The triumph of finite sexuality is to be liberated from play into the body. The 
 
 Infinite lovers conform to the sexual expectations of others in a way that does not expose something hidden, but unveils something in plain sight: that sexual engagement is a poiesis of free persons. In this exposure they emerge as the persons they are. They meet others with their limitations, and not within their limitations. In doing so they expect to be transformed—and are transformed.
 
-<<<<<<< HEAD
 ![images](https://cdn.plmxs.top/images/000010.jpg)
-=======
-![images](https://libmind.github.io/img/e03_finite_and_infinite_games/images/000010.jpg)
->>>>>>> 6df4eed (updated by Macbook)
 
 ### 63
 
@@ -960,11 +941,7 @@ If, however, the observers see the poiesis in the work they cease at once being 
 
 If the goal of finite play is to win titles for their timelessness, and thus eternal life for oneself, the essence of infinite play is the paradoxical engagement with temporality that Meister Eckhart called “eternal birth.”
 
-<<<<<<< HEAD
 ![images](https://cdn.plmxs.top/images/000007.jpg)
-=======
-![images](https://libmind.github.io/img/e03_finite_and_infinite_games/images/000007.jpg)
->>>>>>> 6df4eed (updated by Macbook)
 
 ### 70
 
@@ -1110,11 +1087,7 @@ True storytellers do not know their own story. What they listen to in their poie
 
 Historians become infinite speakers when they see that whatever begins in freedom cannot end in necessity.
 
-<<<<<<< HEAD
 ![images](https://cdn.plmxs.top/images/000009.jpg)
-=======
-![images](https://libmind.github.io/img/e03_finite_and_infinite_games/images/000009.jpg)
->>>>>>> 6df4eed (updated by Macbook)
 
 ### 80
 
@@ -1298,11 +1271,7 @@ We stand before genius in silence. We cannot speak it, we can only speak as it. 
 
 The homelessness of nature, its utter indifference to human existence, disclose to the infinite player that nature is the genius of the dramatic.
 
-<<<<<<< HEAD
 ![images](https://cdn.plmxs.top/images/000004.jpg)
-=======
-![images](https://libmind.github.io/img/e03_finite_and_infinite_games/images/000004.jpg)
->>>>>>> 6df4eed (updated by Macbook)
 
 ### 94
 
@@ -1400,19 +1369,11 @@ Infinite players are not serious actors in any story, but the joyful poets of a 
 
 There is but one infinite game.
 
-<<<<<<< HEAD
 ![images](https://cdn.plmxs.top/images/000011.jpg)
 
 ## INDEX
 
 ![images](https://cdn.plmxs.top/images/000011.jpg)
-=======
-![images](https://libmind.github.io/img/e03_finite_and_infinite_games/images/000011.jpg)
-
-## INDEX
-
-![images](https://libmind.github.io/img/e03_finite_and_infinite_games/images/000011.jpg)
->>>>>>> 6df4eed (updated by Macbook)
 
 Numbers following entries refer to *sections.*
 
@@ -1602,15 +1563,4 @@ World, [63](#calibre_link-40)–67, [77](#calibre_link-27); *see also* Audience
 
 Zen Buddhism, [32](#calibre_link-104)
 
-<<<<<<< HEAD
 http://eBookNews.SimonandSchuster.com/back/9781451657296)
-=======
-We hope you enjoyed reading this Simon & Schuster eBook.
-
-Sign up for our newsletter and receive special offers, access to bonus content, and info on the latest new releases and other great eBooks from Free Press.
-
-[![sign up button](https://libmind.github.io/img/e03_finite_and_infinite_games/images/000000.jpg)](http://eBookNews.SimonandSchuster.com/back/9781451657296)
-
-or visit us online to sign up at
-[eBookNews.SimonandSchuster.com](http://eBookNews.SimonandSchuster.com/back/9781451657296)
->>>>>>> 6df4eed (updated by Macbook)
